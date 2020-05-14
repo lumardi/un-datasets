@@ -1,0 +1,21 @@
+resolution resolution, functions as an identifier
+vote_date calendar date when the resolution was voted
+title resolution title
+agenda agenda code
+draft_resolution code of resolution drat
+meeting_record meeting record
+vote_summary summary of the votes of a particular resolution
+link resolution link 
+country_1 first country name according to the UN Security Council website
+country_alt_1 first country alternative name taking into account historical changes 
+cow_1 first country correlates of war code
+cow_alt_1 first conunry modified correlates of war code
+vote_1 first country vote
+country_2 second country name according to the UN Security Council website
+country_alt_2 second country alternative name taking into account historical changes 
+cow_2 second country correlates of war code
+cow_alt_2 second conunry modified correlates of war code
+vote_2 second country vote
+
+
+

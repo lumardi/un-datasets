@@ -1,0 +1,13 @@
+vote_date calendar date when the resolution was voted
+country country names according to the UN Security Council website
+country_alt alternative names of countries taking into account historical changes 
+cow correlates of war code
+cow_alt modified correlates of war code that distinguishes alternative names of countries
+vote country vode
+title resolution title
+agenda agenda code
+resolution resolution, serves as identifier
+draft_resolution code of resolution drat
+meeting_record meeting record
+vote_summary summary of the votes of a particular resolution
+link resolution link 
